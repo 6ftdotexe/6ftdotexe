@@ -1,9 +1,7 @@
 <div align="center">
-# Hello World! 
-  
-this is Lance Page
+#This is Lance Page
 
-A full stack developer.
+#A full stack developer.
 
 <a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ftdotexe&theme=dark&hide=html,dockerfile" alt="francislagares" />
